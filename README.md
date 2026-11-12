@@ -36,7 +36,22 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | **Código completo** | [completed-examples/lesson-01/Main.java](completed-examples/lesson-01/Main.java) |
 | **Guion** | [scripts/lesson-01-hola-java-script.md](scripts/lesson-01-hola-java-script.md) |
 
-<!-- seccion: leccion-02 -->
+---
+
+### Lección 2: Variables y tipos de datos (4:56 min)
+
+- **Descripción**: Aprende a guardar información en variables, como si fueran cajas con etiqueta.
+- **Conclusiones clave**: `int` para enteros, `double` para decimales, `String` para texto y `boolean` para verdadero o falso; una variable puede cambiar de valor sin volver a escribir su tipo.
+- **Reto**: Crea variables con tu nombre, tu edad y tu comida favorita y muéstralas en la consola.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/ajFHGKrNFPg) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Vh4IaGZrh) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/60Xv2K1tW) |
+| **Código inicial** | [starter-files/lesson-02/Main.java](starter-files/lesson-02/Main.java) |
+| **Código completo** | [completed-examples/lesson-02/Main.java](completed-examples/lesson-02/Main.java) |
+| **Guion** | [scripts/lesson-02-variables-y-tipos-de-datos-script.md](scripts/lesson-02-variables-y-tipos-de-datos-script.md) |
 
 <!-- seccion: leccion-03 -->
 
@@ -110,7 +125,23 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | **Código completo** | [completed-examples/lesson-08/Main.java](completed-examples/lesson-08/Main.java) |
 | **Guion** | [scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md](scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md) |
 
-<!-- seccion: videos -->
+---
+
+## Videos del curso
+
+Los 8 videos están publicados en YouTube como **no listados**, es decir, solo se pueden ver con el enlace.
+
+| Lección | Video | Duración |
+|---------|-------|----------|
+| 1 | [¡Hola, Java!](https://youtu.be/E3bf6fJWpX4) | 5:08 |
+| 2 | [Variables y tipos de datos](https://youtu.be/ajFHGKrNFPg) | 4:56 |
+| 3 | [Operadores y expresiones](https://youtu.be/e2TSnWRQ8V4) | 5:28 |
+| 4 | [Decisiones con if y else](https://youtu.be/54TGvpos7Wc) | 7:20 |
+| 5 | [Bucles for y while](https://youtu.be/8AwKwvSLH70) | 3:52 |
+| 6 | [Métodos y entrada de datos](https://youtu.be/ZlrL8QVgtUo) | 7:43 |
+| 7 | [Clases, objetos y constructores](https://youtu.be/Z7qTRU2TtOk) | 9:37 |
+| 8 | [Encapsulación y mini proyecto](https://youtu.be/h3a1JAa1Rm4) | 14:47 |
+| **Total** | | **58:51** |
 
 <!-- seccion: buenas-practicas -->
 
@@ -132,7 +163,16 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | 7 | Clase `Estudiante` con constructor | [OnlineGDB](https://onlinegdb.com/zpYY4Lefti) | [OnlineGDB](https://onlinegdb.com/qMbkhVNQ2) |
 | 8 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/X0dl2dqWt) | [OnlineGDB](https://onlinegdb.com/W3ZHrHJ_R) |
 
-<!-- seccion: como-usar -->
+---
+
+## Cómo usar este curso
+
+1. **Mira el video** de la lección en YouTube.
+2. **Abre la práctica en línea**: el enlace de OnlineGDB ya trae el código inicial cargado. Presiona **Run** para ejecutarlo.
+3. **Escribe junto con el video**: pausa cuando lo necesites y prueba los ejemplos.
+4. **Resuelve el reto** del final de la lección. Si te trabas, compara con el código completo en `completed-examples/`.
+
+Si prefieres copiar el código desde este repositorio: abre el archivo `Main.java` de la lección, copia todo su contenido, ve a [OnlineGDB](https://www.onlinegdb.com/online_java_compiler), pega el código reemplazando el que aparece y presiona **Run**. No necesitas instalar nada.
 
 ---
 
