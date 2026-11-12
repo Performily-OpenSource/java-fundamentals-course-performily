@@ -10,12 +10,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | **Público objetivo** | Estudiantes de 12 a 17 años sin experiencia en programación |
 | **Prerrequisitos** | Ninguno |
 | **Herramientas necesarias** | Navegador web (Chrome, Firefox, Safari, Edge) |
-| **Editor en línea** | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) (gratis, no necesitas registrarte) |
+| **Editor en línea** | https://www.onlinegdb.com/online_java_compiler (gratis, no necesitas registrarte) |
 | **Enfoque** | Bases de Java y POO con ejemplos cotidianos: notas, mascotas y estudiantes |
 
 ### Repositorio de Código Fuente
 
-[https://github.com/Performily-OpenSource/java-fundamentals-course-performily](https://github.com/Performily-OpenSource/java-fundamentals-course-performily)
+https://github.com/Performily-OpenSource/java-fundamentals-course-performily
 
 ---
 
@@ -29,12 +29,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/E3bf6fJWpX4) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/ZGGDhjODF) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/E30x4A_3M) |
-| **Código inicial** | [starter-files/lesson-01/Main.java](starter-files/lesson-01/Main.java) |
-| **Código completo** | [completed-examples/lesson-01/Main.java](completed-examples/lesson-01/Main.java) |
-| **Guion** | [scripts/lesson-01-hola-java-script.md](scripts/lesson-01-hola-java-script.md) |
+| **Video en YouTube** | https://youtu.be/E3bf6fJWpX4 |
+| **Práctica en línea** | https://onlinegdb.com/ZGGDhjODF |
+| **Solución en línea** | https://onlinegdb.com/E30x4A_3M |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-01/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-01/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-01-hola-java-script.md |
 
 ---
 
@@ -46,12 +46,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/ajFHGKrNFPg) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Vh4IaGZrh) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/60Xv2K1tW) |
-| **Código inicial** | [starter-files/lesson-02/Main.java](starter-files/lesson-02/Main.java) |
-| **Código completo** | [completed-examples/lesson-02/Main.java](completed-examples/lesson-02/Main.java) |
-| **Guion** | [scripts/lesson-02-variables-y-tipos-de-datos-script.md](scripts/lesson-02-variables-y-tipos-de-datos-script.md) |
+| **Video en YouTube** | https://youtu.be/ajFHGKrNFPg |
+| **Práctica en línea** | https://onlinegdb.com/Vh4IaGZrh |
+| **Solución en línea** | https://onlinegdb.com/60Xv2K1tW |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-02/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-02/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-02-variables-y-tipos-de-datos-script.md |
 
 ---
 
@@ -63,12 +63,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/e2TSnWRQ8V4) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/3qrh82s67R) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/bWDUCl63V) |
-| **Código inicial** | [starter-files/lesson-03/Main.java](starter-files/lesson-03/Main.java) |
-| **Código completo** | [completed-examples/lesson-03/Main.java](completed-examples/lesson-03/Main.java) |
-| **Guion** | [scripts/lesson-03-operadores-y-expresiones-script.md](scripts/lesson-03-operadores-y-expresiones-script.md) |
+| **Video en YouTube** | https://youtu.be/e2TSnWRQ8V4 |
+| **Práctica en línea** | https://onlinegdb.com/3qrh82s67R |
+| **Solución en línea** | https://onlinegdb.com/bWDUCl63V |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-03/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-03/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-03-operadores-y-expresiones-script.md |
 
 ---
 
@@ -80,12 +80,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/54TGvpos7Wc) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/0gNApYej8F) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Eu8njJfEZ) |
-| **Código inicial** | [starter-files/lesson-04/Main.java](starter-files/lesson-04/Main.java) |
-| **Código completo** | [completed-examples/lesson-04/Main.java](completed-examples/lesson-04/Main.java) |
-| **Guion** | [scripts/lesson-04-decisiones-if-else-script.md](scripts/lesson-04-decisiones-if-else-script.md) |
+| **Video en YouTube** | https://youtu.be/54TGvpos7Wc |
+| **Práctica en línea** | https://onlinegdb.com/0gNApYej8F |
+| **Solución en línea** | https://onlinegdb.com/Eu8njJfEZ |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-04/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-04/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-04-decisiones-if-else-script.md |
 
 ---
 
@@ -97,12 +97,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/8AwKwvSLH70) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/VmNCLPUob) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/tWs4nzuCf) |
-| **Código inicial** | [starter-files/lesson-05/Main.java](starter-files/lesson-05/Main.java) |
-| **Código completo** | [completed-examples/lesson-05/Main.java](completed-examples/lesson-05/Main.java) |
-| **Guion** | [scripts/lesson-05-bucles-for-y-while-script.md](scripts/lesson-05-bucles-for-y-while-script.md) |
+| **Video en YouTube** | https://youtu.be/8AwKwvSLH70 |
+| **Práctica en línea** | https://onlinegdb.com/VmNCLPUob |
+| **Solución en línea** | https://onlinegdb.com/tWs4nzuCf |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-05/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-05/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-05-bucles-for-y-while-script.md |
 
 ---
 
@@ -114,12 +114,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/ZlrL8QVgtUo) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/gR_LUEPit6) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Et7H8vD_t) |
-| **Código inicial** | [starter-files/lesson-06/Main.java](starter-files/lesson-06/Main.java) |
-| **Código completo** | [completed-examples/lesson-06/Main.java](completed-examples/lesson-06/Main.java) |
-| **Guion** | [scripts/lesson-06-metodos-y-entrada-de-datos-script.md](scripts/lesson-06-metodos-y-entrada-de-datos-script.md) |
+| **Video en YouTube** | https://youtu.be/ZlrL8QVgtUo |
+| **Práctica en línea** | https://onlinegdb.com/gR_LUEPit6 |
+| **Solución en línea** | https://onlinegdb.com/Et7H8vD_t |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-06/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-06/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-06-metodos-y-entrada-de-datos-script.md |
 
 ---
 
@@ -131,12 +131,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/Z7qTRU2TtOk) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/zpYY4Lefti) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/qMbkhVNQ2) |
-| **Código inicial** | [starter-files/lesson-07/Main.java](starter-files/lesson-07/Main.java) |
-| **Código completo** | [completed-examples/lesson-07/Main.java](completed-examples/lesson-07/Main.java) |
-| **Guion** | [scripts/lesson-07-clases-objetos-y-constructores-script.md](scripts/lesson-07-clases-objetos-y-constructores-script.md) |
+| **Video en YouTube** | https://youtu.be/Z7qTRU2TtOk |
+| **Práctica en línea** | https://onlinegdb.com/zpYY4Lefti |
+| **Solución en línea** | https://onlinegdb.com/qMbkhVNQ2 |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-07/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-07/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-07-clases-objetos-y-constructores-script.md |
 
 ---
 
@@ -148,12 +148,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---------|--------|
-| **Video en YouTube** | [Ver lección](https://youtu.be/h3a1JAa1Rm4) |
-| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/X0dl2dqWt) |
-| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/W3ZHrHJ_R) |
-| **Código inicial** | [starter-files/lesson-08/Main.java](starter-files/lesson-08/Main.java) |
-| **Código completo** | [completed-examples/lesson-08/Main.java](completed-examples/lesson-08/Main.java) |
-| **Guion** | [scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md](scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md) |
+| **Video en YouTube** | https://youtu.be/h3a1JAa1Rm4 |
+| **Práctica en línea** | https://onlinegdb.com/X0dl2dqWt |
+| **Solución en línea** | https://onlinegdb.com/W3ZHrHJ_R |
+| **Código inicial** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/starter-files/lesson-08/Main.java |
+| **Código completo** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/completed-examples/lesson-08/Main.java |
+| **Guion** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/blob/main/scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md |
 
 ---
 
@@ -161,17 +161,17 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 Los 8 videos están publicados en YouTube como **no listados**, es decir, solo se pueden ver con el enlace.
 
-| Lección | Video | Duración |
-|---------|-------|----------|
-| 1 | [¡Hola, Java!](https://youtu.be/E3bf6fJWpX4) | 5:08 |
-| 2 | [Variables y tipos de datos](https://youtu.be/ajFHGKrNFPg) | 4:56 |
-| 3 | [Operadores y expresiones](https://youtu.be/e2TSnWRQ8V4) | 5:28 |
-| 4 | [Decisiones con if y else](https://youtu.be/54TGvpos7Wc) | 7:20 |
-| 5 | [Bucles for y while](https://youtu.be/8AwKwvSLH70) | 3:52 |
-| 6 | [Métodos y entrada de datos](https://youtu.be/ZlrL8QVgtUo) | 7:43 |
-| 7 | [Clases, objetos y constructores](https://youtu.be/Z7qTRU2TtOk) | 9:37 |
-| 8 | [Encapsulación y mini proyecto](https://youtu.be/h3a1JAa1Rm4) | 14:47 |
-| **Total** | | **58:51** |
+| Lección | Título | Video | Duración |
+|---------|--------|-------|----------|
+| 1 | ¡Hola, Java! | https://youtu.be/E3bf6fJWpX4 | 5:08 |
+| 2 | Variables y tipos de datos | https://youtu.be/ajFHGKrNFPg | 4:56 |
+| 3 | Operadores y expresiones | https://youtu.be/e2TSnWRQ8V4 | 5:28 |
+| 4 | Decisiones con if y else | https://youtu.be/54TGvpos7Wc | 7:20 |
+| 5 | Bucles for y while | https://youtu.be/8AwKwvSLH70 | 3:52 |
+| 6 | Métodos y entrada de datos | https://youtu.be/ZlrL8QVgtUo | 7:43 |
+| 7 | Clases, objetos y constructores | https://youtu.be/Z7qTRU2TtOk | 9:37 |
+| 8 | Encapsulación y mini proyecto | https://youtu.be/h3a1JAa1Rm4 | 14:47 |
+| **Total** | | | **58:51** |
 
 ---
 
@@ -195,19 +195,19 @@ Estos son los errores que más aparecen al empezar y que se explican a lo largo 
 
 ## Recursos adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Performily-OpenSource/java-fundamentals-course-performily)
+- **Código fuente completo**: https://github.com/Performily-OpenSource/java-fundamentals-course-performily
 - **Todas las actividades prácticas**:
 
 | Lección | Actividad | Empezar a programar | Ver la solución |
 |---------|-----------|---------------------|-----------------|
-| 1 | Mensaje de presentación | [OnlineGDB](https://onlinegdb.com/ZGGDhjODF) | [OnlineGDB](https://onlinegdb.com/E30x4A_3M) |
-| 2 | Ficha personal con variables | [OnlineGDB](https://onlinegdb.com/Vh4IaGZrh) | [OnlineGDB](https://onlinegdb.com/60Xv2K1tW) |
-| 3 | Promedio de dos notas | [OnlineGDB](https://onlinegdb.com/3qrh82s67R) | [OnlineGDB](https://onlinegdb.com/bWDUCl63V) |
-| 4 | ¿Aprobó o desaprobó? | [OnlineGDB](https://onlinegdb.com/0gNApYej8F) | [OnlineGDB](https://onlinegdb.com/Eu8njJfEZ) |
-| 5 | Tabla de multiplicar del 5 | [OnlineGDB](https://onlinegdb.com/VmNCLPUob) | [OnlineGDB](https://onlinegdb.com/tWs4nzuCf) |
-| 6 | Suma con método y `Scanner` | [OnlineGDB](https://onlinegdb.com/gR_LUEPit6) | [OnlineGDB](https://onlinegdb.com/Et7H8vD_t) |
-| 7 | Clase `Estudiante` con constructor | [OnlineGDB](https://onlinegdb.com/zpYY4Lefti) | [OnlineGDB](https://onlinegdb.com/qMbkhVNQ2) |
-| 8 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/X0dl2dqWt) | [OnlineGDB](https://onlinegdb.com/W3ZHrHJ_R) |
+| 1 | Mensaje de presentación | https://onlinegdb.com/ZGGDhjODF | https://onlinegdb.com/E30x4A_3M |
+| 2 | Ficha personal con variables | https://onlinegdb.com/Vh4IaGZrh | https://onlinegdb.com/60Xv2K1tW |
+| 3 | Promedio de dos notas | https://onlinegdb.com/3qrh82s67R | https://onlinegdb.com/bWDUCl63V |
+| 4 | ¿Aprobó o desaprobó? | https://onlinegdb.com/0gNApYej8F | https://onlinegdb.com/Eu8njJfEZ |
+| 5 | Tabla de multiplicar del 5 | https://onlinegdb.com/VmNCLPUob | https://onlinegdb.com/tWs4nzuCf |
+| 6 | Suma con método y `Scanner` | https://onlinegdb.com/gR_LUEPit6 | https://onlinegdb.com/Et7H8vD_t |
+| 7 | Clase `Estudiante` con constructor | https://onlinegdb.com/zpYY4Lefti | https://onlinegdb.com/qMbkhVNQ2 |
+| 8 | Registro de estudiantes | https://onlinegdb.com/X0dl2dqWt | https://onlinegdb.com/W3ZHrHJ_R |
 
 ---
 
@@ -218,7 +218,7 @@ Estos son los errores que más aparecen al empezar y que se explican a lo largo 
 3. **Escribe junto con el video**: pausa cuando lo necesites y prueba los ejemplos.
 4. **Resuelve el reto** del final de la lección. Si te trabas, compara con el código completo en `completed-examples/`.
 
-Si prefieres copiar el código desde este repositorio: abre el archivo `Main.java` de la lección, copia todo su contenido, ve a [OnlineGDB](https://www.onlinegdb.com/online_java_compiler), pega el código reemplazando el que aparece y presiona **Run**. No necesitas instalar nada.
+Si prefieres copiar el código desde este repositorio: abre el archivo `Main.java` de la lección, copia todo su contenido, ve a https://www.onlinegdb.com/online_java_compiler, pega el código reemplazando el que aparece y presiona **Run**. No necesitas instalar nada.
 
 ---
 
@@ -241,9 +241,9 @@ java-fundamentals-course-performily/
 
 | Carpeta | Enlace |
 |---------|--------|
-| **starter-files/** | [starter-files/](starter-files/) |
-| **completed-examples/** | [completed-examples/](completed-examples/) |
-| **scripts/** | [scripts/](scripts/) |
+| **starter-files/** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/tree/main/starter-files |
+| **completed-examples/** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/tree/main/completed-examples |
+| **scripts/** | https://github.com/Performily-OpenSource/java-fundamentals-course-performily/tree/main/scripts |
 
 ---
 
