@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+
+# Videos y audios (se publican en YouTube)
+*.mp4
+*.m4a
+
+# PDFs generados
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
