@@ -46,9 +46,39 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 <!-- seccion: leccion-06 -->
 
-<!-- seccion: leccion-07 -->
+---
 
-<!-- seccion: leccion-08 -->
+### Lección 7: Clases, objetos y constructores (9:37 min)
+
+- **Descripción**: Conoce la programación orientada a objetos creando una clase `Mascota`.
+- **Conclusiones clave**: Una clase es un molde y un objeto es lo que se crea con ese molde usando `new`; los atributos guardan datos y los métodos son acciones; el constructor da los valores iniciales y `this` se refiere al objeto actual.
+- **Reto**: Crea una clase `Estudiante` con `nombre` y `grado`, un constructor y un método que muestre sus datos.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/Z7qTRU2TtOk) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/zpYY4Lefti) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/qMbkhVNQ2) |
+| **Código inicial** | [starter-files/lesson-07/Main.java](starter-files/lesson-07/Main.java) |
+| **Código completo** | [completed-examples/lesson-07/Main.java](completed-examples/lesson-07/Main.java) |
+| **Guion** | [scripts/lesson-07-clases-objetos-y-constructores-script.md](scripts/lesson-07-clases-objetos-y-constructores-script.md) |
+
+---
+
+### Lección 8: Encapsulación y mini proyecto (14:47 min)
+
+- **Descripción**: Protege los datos de tus objetos con `private`, getters y setters, y arma un registro de estudiantes con un array.
+- **Conclusiones clave**: Los atributos `private` solo se cambian mediante métodos; un setter puede validar datos (por ejemplo, edad mayor que cero); un array guarda varios elementos y su primera posición es `0`.
+- **Proyecto final**: Registro de estudiantes que recorre un array de objetos `Estudiante` con un `for`.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/h3a1JAa1Rm4) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/X0dl2dqWt) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/W3ZHrHJ_R) |
+| **Código inicial** | [starter-files/lesson-08/Main.java](starter-files/lesson-08/Main.java) |
+| **Código completo** | [completed-examples/lesson-08/Main.java](completed-examples/lesson-08/Main.java) |
+| **Guion** | [scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md](scripts/lesson-08-encapsulacion-y-mini-proyecto-script.md) |
 
 <!-- seccion: videos -->
 
@@ -58,9 +88,46 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 <!-- seccion: como-usar -->
 
-<!-- seccion: estructura -->
+---
 
-<!-- seccion: resumen-equipo -->
+## Estructura del repositorio
+
+```
+java-fundamentals-course-performily/
+├── starter-files/          # Código inicial de cada lección
+│   ├── lesson-01/Main.java
+│   ├── ...
+│   └── lesson-08/Main.java
+├── completed-examples/     # Código completo trabajado en cada video
+│   ├── lesson-01/Main.java
+│   ├── ...
+│   └── lesson-08/Main.java
+├── scripts/                # Guiones de narración de los videos
+├── participant-performance-report.md
+└── README.md               # Plan de curso (este archivo)
+```
+
+| Carpeta | Enlace |
+|---------|--------|
+| **starter-files/** | [starter-files/](starter-files/) |
+| **completed-examples/** | [completed-examples/](completed-examples/) |
+| **scripts/** | [scripts/](scripts/) |
+
+---
+
+## Resumen de la elaboración en equipo
+
+El curso fue diseñado y producido por el equipo **Performily**. Primero se definió el público objetivo y el temario a partir del enunciado. Luego se repartieron las lecciones entre los integrantes y cada uno preparó el guion, el código inicial y el código completo de sus lecciones. Después cada responsable grabó su video en OnlineGDB siguiendo el guion, y finalmente se editaron los videos, se subieron a YouTube como no listados y se ordenó todo en este repositorio.
+
+| Integrante | Rol principal | Lecciones |
+|------------|---------------|-----------|
+| Galvez Meza, Salym Pool | Lección 1, resumen del curso y datos generales del plan de curso | 1 |
+| Vasquez Llave, Oscar Lizandro | Lección 2, edición de los videos y publicación en YouTube | 2 |
+| Ávila De La Cruz, Darío Fabián | Lecciones 3 y 4, buenas prácticas y errores comunes | 3, 4 |
+| Li Gayoso, Diana Carolina | Lecciones 5 y 6 y tabla de prácticas en línea | 5, 6 |
+| Diaz Villalba, Diego Alonso | Líder del equipo: coordinación, lecciones 7 y 8, enlaces de OnlineGDB, estructura del repositorio y reporte de participación | 7, 8 |
+
+**¡Gracias por completar el curso!**
 
 ---
 
