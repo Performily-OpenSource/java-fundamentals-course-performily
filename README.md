@@ -9,7 +9,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | **Duración total** | ~60 minutos (8 lecciones en video) |
 | **Público objetivo** | Estudiantes de 12 a 17 años sin experiencia en programación |
 | **Prerrequisitos** | Ninguno |
-| **Herramientas necesarias** | ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge) |
+| **Herramientas necesarias** | Navegador web (Chrome, Firefox, Safari, Edge) |
 | **Editor en línea** | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) (gratis, no necesitas registrarte) |
 | **Enfoque** | Bases de Java y POO con ejemplos cotidianos: notas, mascotas y estudiantes |
 
