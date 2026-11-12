@@ -42,9 +42,39 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 <!-- seccion: leccion-04 -->
 
-<!-- seccion: leccion-05 -->
+---
 
-<!-- seccion: leccion-06 -->
+### Lección 5: Bucles `for` y `while` (3:52 min)
+
+- **Descripción**: Repite instrucciones sin tener que escribirlas muchas veces.
+- **Conclusiones clave**: `for (int i = 1; i <= 5; i++)` cuando sabes cuántas veces repetir; `while (condición)` mientras algo se cumpla; si la variable de control nunca cambia, el bucle no termina (bucle infinito).
+- **Reto**: Muestra la tabla de multiplicar del 5 con un `for`.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/8AwKwvSLH70) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/VmNCLPUob) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/tWs4nzuCf) |
+| **Código inicial** | [starter-files/lesson-05/Main.java](starter-files/lesson-05/Main.java) |
+| **Código completo** | [completed-examples/lesson-05/Main.java](completed-examples/lesson-05/Main.java) |
+| **Guion** | [scripts/lesson-05-bucles-for-y-while-script.md](scripts/lesson-05-bucles-for-y-while-script.md) |
+
+---
+
+### Lección 6: Métodos y entrada de datos (7:43 min)
+
+- **Descripción**: Organiza tu código en métodos reutilizables y pídele datos a quien usa el programa.
+- **Conclusiones clave**: `public static void saludar(String nombre) { }`; un parámetro es un dato que recibe el método y `return` devuelve un resultado; `Scanner` lee lo que se escribe en la consola con `nextLine()` y `nextInt()`.
+- **Reto**: Pide dos números, envíalos a un método `sumar` y muestra el resultado.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/ZlrL8QVgtUo) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/gR_LUEPit6) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Et7H8vD_t) |
+| **Código inicial** | [starter-files/lesson-06/Main.java](starter-files/lesson-06/Main.java) |
+| **Código completo** | [completed-examples/lesson-06/Main.java](completed-examples/lesson-06/Main.java) |
+| **Guion** | [scripts/lesson-06-metodos-y-entrada-de-datos-script.md](scripts/lesson-06-metodos-y-entrada-de-datos-script.md) |
 
 ---
 
@@ -84,7 +114,23 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 <!-- seccion: buenas-practicas -->
 
-<!-- seccion: recursos -->
+---
+
+## Recursos adicionales
+
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Performily-OpenSource/java-fundamentals-course-performily)
+- **Todas las actividades prácticas**:
+
+| Lección | Actividad | Empezar a programar | Ver la solución |
+|---------|-----------|---------------------|-----------------|
+| 1 | Mensaje de presentación | [OnlineGDB](https://onlinegdb.com/ZGGDhjODF) | [OnlineGDB](https://onlinegdb.com/E30x4A_3M) |
+| 2 | Ficha personal con variables | [OnlineGDB](https://onlinegdb.com/Vh4IaGZrh) | [OnlineGDB](https://onlinegdb.com/60Xv2K1tW) |
+| 3 | Promedio de dos notas | [OnlineGDB](https://onlinegdb.com/3qrh82s67R) | [OnlineGDB](https://onlinegdb.com/bWDUCl63V) |
+| 4 | ¿Aprobó o desaprobó? | [OnlineGDB](https://onlinegdb.com/0gNApYej8F) | [OnlineGDB](https://onlinegdb.com/Eu8njJfEZ) |
+| 5 | Tabla de multiplicar del 5 | [OnlineGDB](https://onlinegdb.com/VmNCLPUob) | [OnlineGDB](https://onlinegdb.com/tWs4nzuCf) |
+| 6 | Suma con método y `Scanner` | [OnlineGDB](https://onlinegdb.com/gR_LUEPit6) | [OnlineGDB](https://onlinegdb.com/Et7H8vD_t) |
+| 7 | Clase `Estudiante` con constructor | [OnlineGDB](https://onlinegdb.com/zpYY4Lefti) | [OnlineGDB](https://onlinegdb.com/qMbkhVNQ2) |
+| 8 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/X0dl2dqWt) | [OnlineGDB](https://onlinegdb.com/W3ZHrHJ_R) |
 
 <!-- seccion: como-usar -->
 
