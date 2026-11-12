@@ -53,9 +53,39 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | **Código completo** | [completed-examples/lesson-02/Main.java](completed-examples/lesson-02/Main.java) |
 | **Guion** | [scripts/lesson-02-variables-y-tipos-de-datos-script.md](scripts/lesson-02-variables-y-tipos-de-datos-script.md) |
 
-<!-- seccion: leccion-03 -->
+---
 
-<!-- seccion: leccion-04 -->
+### Lección 3: Operadores y expresiones (5:28 min)
+
+- **Descripción**: Haz cálculos y compara valores, igual que en matemáticas.
+- **Conclusiones clave**: `+ - * / %` para operar; `10 / 3` con enteros da `3`; `== != > < >= <=` devuelven `true` o `false`; `=` asigna y `==` compara.
+- **Reto**: Calcula el promedio de dos notas y muestra si es mayor o igual a 11.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/e2TSnWRQ8V4) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/3qrh82s67R) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/bWDUCl63V) |
+| **Código inicial** | [starter-files/lesson-03/Main.java](starter-files/lesson-03/Main.java) |
+| **Código completo** | [completed-examples/lesson-03/Main.java](completed-examples/lesson-03/Main.java) |
+| **Guion** | [scripts/lesson-03-operadores-y-expresiones-script.md](scripts/lesson-03-operadores-y-expresiones-script.md) |
+
+---
+
+### Lección 4: Decisiones con `if` y `else` (7:20 min)
+
+- **Descripción**: Haz que tu programa elija qué hacer según una condición.
+- **Conclusiones clave**: `if (condición) { }` se ejecuta solo si la condición es verdadera; `else` es el otro camino; `else if` sirve para varias opciones y el orden importa; `&&` (y) y `||` (o) combinan condiciones.
+- **Reto**: Guarda una nota de 0 a 20 y muestra si el estudiante aprobó o desaprobó.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Video en YouTube** | [Ver lección](https://youtu.be/54TGvpos7Wc) |
+| **Práctica en línea** | [Abrir OnlineGDB](https://onlinegdb.com/0gNApYej8F) |
+| **Solución en línea** | [Abrir OnlineGDB](https://onlinegdb.com/Eu8njJfEZ) |
+| **Código inicial** | [starter-files/lesson-04/Main.java](starter-files/lesson-04/Main.java) |
+| **Código completo** | [completed-examples/lesson-04/Main.java](completed-examples/lesson-04/Main.java) |
+| **Guion** | [scripts/lesson-04-decisiones-if-else-script.md](scripts/lesson-04-decisiones-if-else-script.md) |
 
 ---
 
@@ -143,7 +173,23 @@ Los 8 videos están publicados en YouTube como **no listados**, es decir, solo s
 | 8 | [Encapsulación y mini proyecto](https://youtu.be/h3a1JAa1Rm4) | 14:47 |
 | **Total** | | **58:51** |
 
-<!-- seccion: buenas-practicas -->
+---
+
+## Buenas prácticas y errores comunes
+
+Estos son los errores que más aparecen al empezar y que se explican a lo largo de las lecciones:
+
+| Error o práctica | Qué pasa | Lección |
+|------------------|----------|---------|
+| Olvidar el `;` o las comillas `" "` | El programa no compila y muestra un error | 1 |
+| Usar nombres poco claros como `x` | El código se entiende mejor con nombres como `edad` o `promedio` | 2 |
+| Confundir `=` con `==` | `=` guarda un valor, `==` compara dos valores | 3 |
+| Dividir enteros esperando decimales | `10 / 3` da `3`; para decimales se usa `10.0 / 3.0` | 3 |
+| Poner las condiciones de `else if` en mal orden | Una condición más general puede "tapar" a las demás | 4 |
+| No actualizar la variable de un `while` | Se produce un bucle infinito | 5 |
+| Copiar y pegar el mismo código muchas veces | Es mejor crear un método y llamarlo | 6 |
+| Dejar los atributos públicos sin control | Con `private` y setters se pueden validar los datos | 8 |
+| Usar la posición `1` como la primera del array | En Java los índices empiezan en `0` | 8 |
 
 ---
 
